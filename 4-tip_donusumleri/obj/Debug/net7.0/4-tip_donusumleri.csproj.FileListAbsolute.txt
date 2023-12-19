@@ -1,0 +1,15 @@
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\bin\Debug\net7.0\4-tip_donusumleri.exe
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\bin\Debug\net7.0\4-tip_donusumleri.deps.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\bin\Debug\net7.0\4-tip_donusumleri.runtimeconfig.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\bin\Debug\net7.0\4-tip_donusumleri.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\bin\Debug\net7.0\4-tip_donusumleri.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.csproj.AssemblyReference.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.AssemblyInfo.cs
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\refint\4-tip_donusumleri.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\4-tip_donusumleri.genruntimeconfig.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\4-tip_donusumleri\obj\Debug\net7.0\ref\4-tip_donusumleri.dll
