@@ -1,0 +1,15 @@
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\bin\Debug\net7.0\3-operatorler.exe
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\bin\Debug\net7.0\3-operatorler.deps.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\bin\Debug\net7.0\3-operatorler.runtimeconfig.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\bin\Debug\net7.0\3-operatorler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\bin\Debug\net7.0\3-operatorler.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.csproj.AssemblyReference.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.AssemblyInfoInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.AssemblyInfo.cs
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.csproj.CoreCompileInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\refint\3-operatorler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\3-operatorler.genruntimeconfig.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\3-operatorler\obj\Debug\net7.0\ref\3-operatorler.dll
