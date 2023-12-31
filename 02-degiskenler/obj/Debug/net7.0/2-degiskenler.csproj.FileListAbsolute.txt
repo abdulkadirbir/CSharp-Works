@@ -1,0 +1,15 @@
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.csproj.AssemblyReference.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.AssemblyInfoInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.AssemblyInfo.cs
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\bin\Debug\net7.0\2-degiskenler.exe
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\bin\Debug\net7.0\2-degiskenler.deps.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\bin\Debug\net7.0\2-degiskenler.runtimeconfig.json
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\bin\Debug\net7.0\2-degiskenler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\bin\Debug\net7.0\2-degiskenler.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\refint\2-degiskenler.dll
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.pdb
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\2-degiskenler.genruntimeconfig.cache
+C:\Users\abdulkadir.bir\Desktop\C Sharp\2-degiskenler\obj\Debug\net7.0\ref\2-degiskenler.dll
